@@ -1,0 +1,7 @@
+/Assets
+.DS_Store
+.psd
+.ai
+.indd
+node_modules
+/node_modules
